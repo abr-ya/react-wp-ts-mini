@@ -1,6 +1,7 @@
 declare namespace AppScssNamespace {
   export interface IAppScss {
     container: string;
+    selectWrapper: string;
   }
 }
 
